@@ -1,4 +1,4 @@
-# BetterSolano.org
+# BetterLavezares.org
 
 A civic-tech initiative providing transparent access to municipal services, programs, and public funds of LGU Solano, Nueva Vizcaya, Philippines.
 
