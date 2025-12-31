@@ -11,13 +11,13 @@ A civic-tech initiative providing transparent access to municipal services, prog
 
 ## About
 
-BetterSolano.org is a volunteer-driven, open-source project that empowers the people of Solano with easy access to local government information. The platform aggregates public data from official government portals and presents it in a user-friendly, accessible format.
+BetterLavezares.org is a volunteer-driven, open-source project that empowers the people of Solano with easy access to local government information. The platform aggregates public data from official government portals and presents it in a user-friendly, accessible format.
 
-**Cost to the People of Solano = ₱0**
+**Cost to the People of Lavezares = ₱0**
 
 ## Live Demo
 
-Visit the live website: [https://bettersolano.org](https://bettersolano.org)
+Visit the live website: [https://betterlavezares.org](https://betterlavezares.org)
 
 ## Technology Stack
 
