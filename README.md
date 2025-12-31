@@ -1,6 +1,6 @@
 # BetterLavezares.org
 
-A civic-tech initiative providing transparent access to municipal services, programs, and public funds of LGU Solano, Nueva Vizcaya, Philippines.
+A civic-tech initiative providing transparent access to municipal services, programs, and public funds of LGU Lavezare, Northern Samar, Philippines.
 
 ![Version](https://img.shields.io/badge/version-1.1.7-green)
 ![License](https://img.shields.io/badge/license-MIT%20%7C%20CC%20BY%204.0-blue)
