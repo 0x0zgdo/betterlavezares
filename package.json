@@ -1,7 +1,7 @@
 {
   "name": "bs-web",
   "version": "1.1.12",
-  "description": "BetterSolano.org - Official Portal for LGU Solano",
+  "description": "BetterLavezares.org - Official Portal for LGU Lavezares",
   "scripts": {
     "dev": "python3 -m http.server 8000",
     "build": "bash build.sh",
@@ -15,8 +15,8 @@
     "version:check": "bash scripts/version.sh"
   },
   "keywords": [
-    "solano",
-    "nueva-vizcaya",
+    "lavezares",
+    "northern-samar",
     "government",
     "lgu"
   ],
